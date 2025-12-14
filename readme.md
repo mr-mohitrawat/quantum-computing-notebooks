@@ -29,6 +29,10 @@ Demonstrates the Deutsch-Jozsa algorithm for a single qubit case, distinguishing
 📂 `DeutschJozsa_MultiQubits.ipynb`  
 Extends the Deutsch-Jozsa algorithm to multiple qubits, showing exponential speedup over classical approaches.
 
+### 6. Classical Gates Using Quantum Gates
+📂 `Classical_Gates_Using_Quantum_Gates.ipynb`  
+Implements classical logic gates (NOT, AND, OR, XOR) using quantum circuits.  
+Simulates the gates on a quantum backend and visualizes the results.
 
 ---
 
@@ -57,5 +61,5 @@ jupyter notebook
 
 **Mohit Rawat**  
 💼 Software Engineer | Aspiring Quantum Computing Researcher  
-🌐 [LinkedIn](https://www.linkedin.com/in/astro-mohitrawat/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/mr-mohitrawat/)  
 🧑‍💻 Exploring the intersection of **Quantum Computing, AI, and Physics**
