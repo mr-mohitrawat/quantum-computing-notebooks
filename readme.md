@@ -41,7 +41,7 @@ Simulates the gates on a quantum backend and visualizes the results.
 Clone the repo:
 
 ```bash
-git clone https://github.com/mohitrawat9885/quantum-computing-notebooks.git
+git clone https://github.com/mr-mohitrawat/quantum-computing-notebooks.git
 cd quantum-computing-notebooks
 ```
 
