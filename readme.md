@@ -34,6 +34,14 @@ Extends the Deutsch-Jozsa algorithm to multiple qubits, showing exponential spee
 Implements classical logic gates (NOT, AND, OR, XOR) using quantum circuits.  
 Simulates the gates on a quantum backend and visualizes the results.
 
+### 7. Run on IBM Fake Hardware
+📂 `Run_On_IBM_Fake_Hardware.ipynb`  
+Simulates quantum circuits on IBM's fake hardware backend. Demonstrates how to use Qiskit's fake backends for testing and debugging quantum algorithms.
+
+### 8. Run on IBM Quantum Hardware
+📂 `Run_On_IBM_Quantum_Hardware.ipynb`  
+Executes quantum circuits on real IBM quantum hardware. Includes steps for transpiling circuits, submitting jobs, and analyzing results from IBM's quantum devices.
+
 ---
 
 ## 🚀 How to Run
