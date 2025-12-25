@@ -42,6 +42,11 @@ Simulates quantum circuits on IBM's fake hardware backend. Demonstrates how to u
 📂 `Run_On_IBM_Quantum_Hardware.ipynb`  
 Executes quantum circuits on real IBM quantum hardware. Includes steps for transpiling circuits, submitting jobs, and analyzing results from IBM's quantum devices.
 
+### 9. Classical Gates Run on IBM Hardware
+📂 `Classical_Gates_Run_On_IBM_Hardware.ipynb`  
+Implements classical logic gates (NOT, AND, OR, XOR) using quantum circuits.  
+Simulates the gates on IBM's fake hardware, Aer simulator, and real IBM quantum hardware.
+
 ---
 
 ## 🚀 How to Run
